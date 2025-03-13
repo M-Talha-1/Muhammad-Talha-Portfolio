@@ -12,7 +12,7 @@ export default function Layout({ children }: { children: ReactNode }) {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-3 gap-8 items-center">
             <div>
-              <h3 className="text-xl font-bold mb-2">DataPro</h3>
+              <h3 className="text-xl font-bold mb-2">Talha Asif</h3>
               <p className="text-sm opacity-80">
                 Transforming data into actionable insights
               </p>
@@ -35,7 +35,7 @@ export default function Layout({ children }: { children: ReactNode }) {
             </div>
             <div className="text-right">
               <p className="text-sm opacity-80">
-                © {new Date().getFullYear()} DataPro
+                © {new Date().getFullYear()} Talha Asif
                 <br />
                 All rights reserved
               </p>

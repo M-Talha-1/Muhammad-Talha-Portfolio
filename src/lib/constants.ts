@@ -3,12 +3,12 @@ import { SiLinkedin, SiGithub, SiX } from "react-icons/si";
 export const SOCIAL_LINKS = [
   {
     icon: SiLinkedin,
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/mdtalha-data-analyst/",
     label: "LinkedIn Profile",
   },
   {
     icon: SiGithub,
-    href: "https://github.com",
+    href: "https://github.com/M-Talha-1",
     label: "GitHub Profile",
   },
   {

@@ -24,7 +24,7 @@ export default function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="text-xl font-bold text-primary">
-            <Link href="/">DataPro</Link>
+            <Link href="/">Talha Asif</Link>
           </div>
 
           {/* Desktop Navigation */}
