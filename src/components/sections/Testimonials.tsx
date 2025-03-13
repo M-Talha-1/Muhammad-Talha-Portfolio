@@ -5,22 +5,22 @@ import { fadeIn } from "@/lib/animations";
 
 const testimonials = [
   {
-    name: "Sarah Johnson",
-    role: "Marketing Director",
-    content: "The data insights provided transformed our marketing strategy, leading to a 40% increase in campaign ROI.",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&h=200&fit=crop"
+    name: "Normand Cyr",
+    role: "VP Operations & Managing Partner at Ginger Telecom",
+    content: "Muhammed was very helpful and professional to deliver a 5 stars project. It was easy working with him and the final result was way above our expectation.",
+    image: "/clients/Normand-Cyr.jpg"
   },
   {
-    name: "Michael Chen",
-    role: "CEO",
-    content: "Outstanding ability to translate complex data into actionable business strategies. A true analytics expert.",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop"
+    name: "Alistair Ridely",
+    role: "CEO at Love The Journey LTD",
+    content: "Muhammad Talha's expertise as a data visualiser has been truly exemplary. His ability to translate intricate data into clear, concise, and visually engaging representations has greatly enhanced our decision-making process.",
+    image: "/clients/Alistair Ridely.jpg"
   },
   {
-    name: "Emily Rodriguez",
-    role: "Operations Manager",
-    content: "The predictive models developed helped us optimize our supply chain, reducing costs by 25%.",
-    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&h=200&fit=crop"
+    name: "Oreilo Lopes",
+    role: "Strategic Talent Acquisition Leader at Lopes Recruitment",
+    content: "Muhammad goes that extra mile, very competent and ask questions if something isn't clear or would like to know more in detail. Very exceptional!",
+    image: "/clients/Oreilo Lopes.jpg"
   }
 ];
 

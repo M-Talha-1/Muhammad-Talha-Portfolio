@@ -54,7 +54,7 @@ export default function Hero() {
             className="relative aspect-square max-w-md mx-auto"
           >
             <img
-              src="https://images.unsplash.com/photo-1573496799515-eebbb63814f2"
+              src="/ProfilePhoto.png"
               alt="Professional headshot"
               className="rounded-2xl shadow-2xl"
             />
